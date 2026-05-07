@@ -71,7 +71,8 @@ streamlit run app.py
 
 ## 🌐 Live Demo
 
-👉 (Add your Streamlit deployed link here)
+🚀 Try the deployed application here:  
+👉 [TruthLens AI - Live Demo](https://huggingface.co/spaces/rishisharmapro/truthlens-ai)
 
 ---
 
